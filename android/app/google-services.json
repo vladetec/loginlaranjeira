@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "681108108925",
+    "firebase_url": "https://loginlaranjeira.firebaseio.com",
+    "project_id": "loginlaranjeira",
+    "storage_bucket": "loginlaranjeira.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:681108108925:android:5ab159e2948a3812",
+        "android_client_info": {
+          "package_name": "com.example.loginlaranjeira"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "681108108925-shtp8m1lq98rjhm2i7h1s4dt2q4o8sfs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCRD_lEyuObGZuurT0EcI3TydqmYjZwVLQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "681108108925-shtp8m1lq98rjhm2i7h1s4dt2q4o8sfs.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
